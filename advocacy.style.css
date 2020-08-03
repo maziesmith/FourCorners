@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Handlee&display=swap');
+
+body {
+  background-color: #91df75ff;
+}
+
+
+button {
+  background-color: #91df75ff;
+  border-color: whitesmoke;
+  font-size: 15px;
+  font-family: 'Handlee', cursive;
+}
+
+h1 {
+  font-family:  'Allura', cursive;
+  font-size: 60px;
+  text-align: cente r;
+}
+
+div {
+  border: 1.5px solid white;
+  border-radius: 6px;
+  margin: 2px;
+  padding: 5px;
+}
+.back-btn:hover {
+  transition-duration: 0.4s;
+  background-color: #478C32; 
+  color: whitesmoke;
+}

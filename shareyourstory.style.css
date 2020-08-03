@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Handlee&display=swap');
+
+h1 {
+  font-family:  'Allura', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+body {
+  background-color:  #d3a9f5ff;
+}
+
+.back-btn {
+  background-color: #d3a9f5ff;
+  border-color: whitesmoke;
+
+}.back-btn:hover {
+ transition-duration: 0.4s;
+  background-color: #C05FD9; 
+  color: whitesmoke;
+}
+
+
+.news {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 45px;
+}
+
+button{
+   font-size: 15px;
+  font-family: 'Handlee', cursive;
+}
+
+.sign {
+  background-color: #C05FD9;
+}

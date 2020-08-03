@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Arizonia&family=Average&family=Calligraffitti&family=Lato&display=swap');
+body{
+  background-image: url("https://now.tufts.edu/sites/default/files/191010_mhtf_report_lg.jpg");
+  background-size: cover;
+}
+
+h1{
+  color: #5b0f00;
+  background-color: #e06666;
+  text-align: center;
+  font-family: 'Calligraffitti', cursive;
+  font-size: 55px
+
+}
+
+ 
+
+
+h2{
+  color: #a61c00;
+  background-color: #ea9999;
+  text-align:center;
+  font-family: 'Lato', sans-serif;
+  
+}
+
+
+
+h3{
+  font-family: 'Allura', cursive;
+  font-size: 30px;
+}
+.education {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #74b9f6ff;
+  border: 0.5px solid black;
+   text-align:center;
+  //display: inline;
+ margin: 10px;
+ flex-direction: column;
+ padding-left:10px;
+   padding-right:10px;
+   height: 400px;
+   width: 650px;
+  
+}
+
+.advocates{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:#91df75ff;
+  border: 0.5px solid black;
+   text-align:center;
+  //display: inline;
+  margin: 10px;
+  padding-left:10px;
+  padding-right:10px;
+  height: 400px;
+  width: 650px;
+}
+
+.self-care {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:  #f097f1ff;
+  border: 0.5px solid black;
+   text-align:center;
+  //display: inline;
+  
+   margin: 10px;
+  padding-left:10px;
+  padding-right:10px;
+  height: 400px;
+  width: 650px;
+}
+
+.ShareYourStory{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #c385f5ff;
+  border: 0.5px solid black;
+   text-align:center;
+   margin: 10px;
+   padding-left:10px;
+   padding-right:10px;
+   height: 400px;
+   width: 650px;
+}
+
+.education-btn{
+  background-color: #a8d0f3ff;
+}
+.advocates-btn{
+  background-color:#b6e2a6ff;
+}
+.self-care-btn{
+  background-color:#edb9eeff;
+}
+.ShareYourStory-btn{
+  background-color:#d3a9f5ff;
+}
+button{
+  font-family: 'Arizonia', cursive;
+  display:block;
+}
+container{
+  display:flex;
+  text-align: center;
+  //width: 20px;
+}
+
+img{
+  height: 45px;
+  width: 45px;
+  background-image: none;
+
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Handlee&display=swap');
+h1 {
+ font-family:  'Allura', cursive;
+ font-size: 60px;
+ text-align: center;
+}
+
+body {
+  background-color:#f097f1ff;
+}
+
+h2 {
+  font-family: 'Handlee', cursive;
+}
+
+.container {
+  font-family: 'Handlee', cursive;
+}
+
+hr {
+  border-top: 1px solid black;
+}
+
+.click-btn {
+  background-color: #BF4B79;
+  
+}
+
+
+
+l1 {
+  font-family: 'Handlee', cursive;
+}
+
+
+div{
+  font-family: 'Handlee', cursive;
+}
+
+.back-btn {
+  background-color: #f097f1ff;
+  border-color: whitesmoke;
+
+}
+.back-btn:hover {
+ transition-duration: 0.4s;
+  background-color: #BF4B79; 
+  color: whitesmoke;
+}
+
+button{
+ font-size: 15px;
+  font-family: 'Handlee', cursive;
+}

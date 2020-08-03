@@ -1,0 +1,32 @@
+body {
+  background-color: #f097f1ff;
+}
+
+h1 {
+  font-family: 'Allura', cursive;
+  font-size: 55px;
+  text-align: center;
+}
+
+.container{
+  font-family: 'Handlee', cursive;
+}
+
+.yes-btn{
+   background-color: hsl(344, 91%, 55%);
+   margin:2px;
+}
+
+.no-btn{
+  background-color: hsl(344, 91%, 55%);
+  margin:2px
+}
+
+.submit-button {
+   background-color: #BF4B79;
+}
+
+.back-btn {
+background-color: #BF4B79;
+}
+
